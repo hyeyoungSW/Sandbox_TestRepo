@@ -1,0 +1,8 @@
+certifi==2022.12.7
+charset-normalizer
+idna==3.4
+requests
+urllib3==1.26.14
+openai
+python-dotenv
+netmiko
