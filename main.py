@@ -125,7 +125,9 @@ def main():
         f.close()
 
 
-
+    logfile = open(log_folder+  '/' + log_filename, 'r')
+    print(logfile.read())
+    f.close()
 
 if __name__ == "__main__":
     main()
